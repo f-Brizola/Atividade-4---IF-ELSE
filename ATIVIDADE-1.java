@@ -10,9 +10,9 @@ class HelloWorld {
     id = scanner.nextDouble();
     
     if(id >= 18){
-        System.out.println("Voce e maior de idade");
+        System.out.println("Voce é maior de idade");
     }else{
-        System.out.println("Voce e menor de idade");
+        System.out.println("Voce é menor de idade");
     }
     
     }
