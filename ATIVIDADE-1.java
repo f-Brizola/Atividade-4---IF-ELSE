@@ -6,7 +6,7 @@ class HelloWorld {
     
     Scanner scanner = new Scanner(System.in);
     
-    System.out.println("Insira sua idade");
+    System.out.println("Insira a sua idade");
     id = scanner.nextDouble();
     
     if(id >= 18){
